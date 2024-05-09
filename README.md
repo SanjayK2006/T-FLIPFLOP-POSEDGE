@@ -79,4 +79,4 @@ endmodule
 ```
 
 **RESULTS**
-Hence, T flipflop using verilog and validating their functionality using their functional tables is implemented.
+Hence, T flipflop using verilog is implemented.
